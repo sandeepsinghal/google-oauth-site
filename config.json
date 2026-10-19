@@ -1,0 +1,13 @@
+{
+  "APP_NAME": "My App",
+  "APP_TAGLINE": "A short one-line description of what your app does",
+  "APP_BENEFIT": "do [main benefit] more easily",
+  "APP_DESCRIPTION": "provides [brief description of the service]",
+  "OWNER_NAME": "Your Name or Company",
+  "LOCATION": "Your City, State, Country",
+  "CONTACT_EMAIL": "you@example.com",
+  "DATA_ACCESSED": "your name, email address, and profile picture",
+  "DATA_PURPOSE": "create your account and personalize your experience",
+  "HOSTING_PROVIDER": "a secure third-party cloud hosting provider",
+  "GOVERNING_LAW": "the State of Texas, United States"
+}
